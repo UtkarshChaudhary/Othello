@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="boardSize=6"
+        android:id="@+id/size6">
+    </item>
+
+    <item android:title="boardSize=8"
+        android:id="@+id/size8">
+
+    </item>
+
+</menu>

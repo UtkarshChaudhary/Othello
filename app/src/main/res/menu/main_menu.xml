@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/newgame"
+        android:title="New Game"></item>
+
+    <item android:title="Size6"
+        android:id="@+id/size6">
+
+    </item>
+
+<item android:title="Size8"
+    android:id="@+id/size8"/>
+
+</menu>
